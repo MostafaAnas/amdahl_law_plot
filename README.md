@@ -1,0 +1,1 @@
+# amdahl_law_plot
